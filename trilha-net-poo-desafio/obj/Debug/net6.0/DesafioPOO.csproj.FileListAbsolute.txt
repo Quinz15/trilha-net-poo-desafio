@@ -1,0 +1,5 @@
+C:\Users\Namir\Desktop\Projetos\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Namir\Desktop\Projetos\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\Namir\Desktop\Projetos\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\Namir\Desktop\Projetos\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\Namir\Desktop\Projetos\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.sourcelink.json
